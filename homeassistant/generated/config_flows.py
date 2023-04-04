@@ -90,6 +90,7 @@ FLOWS = {
         "devolo_home_network",
         "dexcom",
         "dialogflow",
+        "dimmer_button",
         "directv",
         "discord",
         "dlink",

@@ -1,9 +1,7 @@
 {
   "domain": "dimmer_button",
   "name": "dimmer_button",
-  "codeowners": [
-    "@payano"
-  ],
+  "codeowners": ["@payano"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://www.home-assistant.io/integrations/dimmer_button",
@@ -11,5 +9,6 @@
   "iot_class": "calculated",
   "requirements": [],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
+  "version": "1.2.0"
 }

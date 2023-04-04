@@ -1056,6 +1056,12 @@
       "config_flow": false,
       "iot_class": "local_polling"
     },
+    "dimmer_button": {
+      "name": "dimmer_button",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "calculated"
+    },
     "directv": {
       "name": "DirecTV",
       "integration_type": "hub",
